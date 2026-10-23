@@ -1,0 +1,69 @@
+{
+  "archivos_comprimidos": [
+    {
+      "file": "./assets/data-modelo-principal-01.json.gz",
+      "key": "AVIONETA",
+      "mode": "concat",
+      "count": 18,
+      "raw_len": 14479881,
+      "gzip_len": 1584491
+    },
+    {
+      "file": "./assets/data-modelo-principal-02.json.gz",
+      "key": "AVIONETA",
+      "mode": "concat",
+      "count": 18,
+      "raw_len": 14473054,
+      "gzip_len": 1358739
+    },
+    {
+      "file": "./assets/data-modelo-principal-03.json.gz",
+      "key": "AVIONETA",
+      "mode": "concat",
+      "count": 28,
+      "raw_len": 14601091,
+      "gzip_len": 1532212
+    },
+    {
+      "file": "./assets/data-modelo-principal-04.json.gz",
+      "key": "AVIONETA",
+      "mode": "concat",
+      "count": 1,
+      "raw_len": 190794,
+      "gzip_len": 16617
+    },
+    {
+      "file": "./assets/data-subensambles.json.gz",
+      "key": "SUBASSEMBLIES",
+      "mode": "set",
+      "count": 8,
+      "raw_len": 20485437,
+      "gzip_len": 2447389
+    },
+    {
+      "file": "./assets/data-contornos-ldraw.json.gz",
+      "key": "AVIONETA_EDGES",
+      "mode": "set",
+      "count": 65,
+      "raw_len": 10652986,
+      "gzip_len": 1388382
+    },
+    {
+      "file": "./assets/data-contornos-subensambles-ldraw.json.gz",
+      "key": "SUBASSEMBLY_EDGES",
+      "mode": "set",
+      "count": 8,
+      "raw_len": 3383589,
+      "gzip_len": 539341
+    },
+    {
+      "file": "./assets/data-integracion-subensambles.json.gz",
+      "key": "SUB_INTEGRATION_STEPS",
+      "mode": "set",
+      "count": 7,
+      "raw_len": 150,
+      "gzip_len": 128
+    }
+  ],
+  "total_bytes": 9770767
+}
